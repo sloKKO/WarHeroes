@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="WarHeroesModelStoreContainer" CdmEntityContainer="WarHeroesEntities">
+    <EntitySetMapping Name="Tbheroes">
+      <EntityTypeMapping TypeName="WarHeroesModel.Tbhero">
+        <MappingFragment StoreEntitySet="Tbhero">
+          <ScalarProperty Name="Action" ColumnName="Action" />
+          <ScalarProperty Name="Picture" ColumnName="Picture" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Service" ColumnName="Service" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

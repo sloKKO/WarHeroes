@@ -1,0 +1,173 @@
+1.http://www.aspdotnet-pools.com/2014/10/responsive-grid-design-example-using.html
+2.https://www.youtube.com/watch?v=VAtVv1Q7ufM
+3.http://www.c-sharpcorner.com/UploadFile/b696c4/how-to-upload-and-display-image-in-mvc/
+4.https://www.codeproject.com/articles/1032226/crud-operation-in-asp-net-mvc-and-angularjs
+5.http://www.webcodeexpert.com/2013/11/aspnet-mvc-application-to.html
+6.http://www.compilemode.com/2015/09/crud-operations-in-aspnet-mvc-5.html
+7.https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/implementing-basic-crud-functionality-with-the-entity-framework-in-asp-net-mvc-application
+8.http://codebuckets.com/2016/09/07/asp-net-mvc-and-binding-complex-objects-magic/
+9.https://ww2.pl/polish-intelligence-during-world-war-ii/
+10.https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/examining-the-details-and-delete-methods
+
+
+
+THIS IS LINK TO IMGAES THAT SHOWING WAR AS A PAINT
+https://www.flickr.com/photos/archivesnz/14217495024/in/photostream/
+11.https://www.youtube.com/watch?v=LAhZ29p9f4k
+
+links from 09 Jan 2017:
+1.What's the difference between code first and model first entity framework?
+https://www.bayt.com/en/specialties/q/256127/what-s-the-difference-between-code-first-and-model-first-entity-framework/
+
+2.A Step-by-Step ASP.NET MVC Tutorial for Beginners(video records)
+https://blog.udemy.com/a-step-by-step-asp-net-tutorial-for-beginners/
+
+3.Database Initialization:
+http://www.entityframeworktutorial.net/code-first/database-initialization-in-code-first.aspx
+
+4.ASP.NET MVC 4 Entity Framework Scaffolding and Migrations
+https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions/hands-on-labs/aspnet-mvc-4-entity-framework-scaffolding-and-migrations
+
+5.Getting Started with Entity Framework 6 Code First using MVC 5
+https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application
+
+6.Building beautiful, responsive sites with Bootstrap(buttons, links)
+https://docs.microsoft.com/en-us/aspnet/core/client-side/bootstrap
+
+7.Multiple Submit Buttons with ASP.NET MVC
+https://www.youtube.com/watch?v=oaeg_1Y39-w
+
+8.Create a Movie Database Application in 15 Minutes with ASP.NET MVC (C#)
+https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/movie-database/create-a-movie-database-application-in-15-minutes-with-asp-net-mvc-cs
+
+9.ASP.NET MVC 5 Tutorial - Step by Step - PatrickVideos
+https://www.youtube.com/watch?v=VAtVv1Q7ufM
+
+10.Creating a Movie Database Application in 15 minutes with ASP NET MVC The Official Microsoft ASP NET Site
+https://www.youtube.com/watch?v=LAhZ29p9f4k
+
+11.Examining the Details and Delete Methods
+https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/examining-the-details-and-delete-methods
+
+12.Part 48 Custom html helpers in mvc
+https://www.youtube.com/watch?v=2mACi5D739g
+
+13.https://www.youtube.com/watch?v=2mACi5D739g
+http://www.c-sharpcorner.com/UploadFile/rahul4_saxena/design-a-master-page-with-header-footer-and-body-in-mvc-app/
+
+14.Save Image into database table in ASP.NET MVC
+https://www.youtube.com/watch?v=pvma3fe_JII
+
+15.Displaying a Table of Database Data (C#)
+https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/models-data/displaying-a-table-of-database-data-cs
+
+16.Examining how ASP.NET MVC scaffolds the DropDownList Helper
+https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions/working-with-the-dropdownlist-box-and-jquery/examining-how-aspnet-mvc-scaffolds-the-dropdownlist-helper
+
+17.Sorting, Filtering, and Paging with the Entity Framework in an ASP.NET MVC Application (3 of 10)
+https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/sorting-filtering-and-paging-with-the-entity-framework-in-an-asp-net-mvc-application
+
+18.Getting Started with Entity Framework 6 Code First using MVC 5(this is this one)
+https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application
+
+19.Filter and Display Data with ASP.NET MVC (Part 2)–Partial Views and JQuery
+http://weblogs.thinktecture.com/cnagel/2011/06/filter-and-display-data-with-aspnet-mvc-part-2partial-views-and-jquery.html
+
+20.Part 6: Using Data Annotations for Model Validation
+Part 6: Using Data Annotations for Model Validation
+
+12/March/2017
+1. 	
+Design a Master Page With Header, Footer and Body in MVC Application
+http://www.c-sharpcorner.com/UploadFile/rahul4_saxena/design-a-master-page-with-header-footer-and-body-in-mvc-app/
+
+2.http://ww2db.com/person_bio.php?person_id=c967  (Jerzy iwanowicz bio-Inteligence)
+http://www.c-sharpcorner.com/UploadFile/rahul4_saxena/design-a-master-page-with-header-footer-and-body-in-mvc-app/
+
+13 /March/2017
+1.Build a Responsive, Mobile-first Cart Page with Bootstrap
+http://www.practicalecommerce.com/articles/126551-Build-a-Responsive-Mobile-first-Cart-Page-with-Bootstrap
+2.
+Shield UI JavaScript & HTML5 Demos
+https://demos.shieldui.com/
+
+https://docs.microsoft.com/en-us/azure/app-service-web/web-sites-dotnet-deploy-aspnet-mvc-app-membership-oauth-sql-database
+Create an ASP.NET MVC app with auth and SQL DB and deploy to Azure App Service
+
+paggin and drop down list see contoso university project
+
+Jozef Kosacki
+Technology
+Jozef Kosacki  (1909–1990) was a Polish professor engineer, inventor, and an officer in the Polish Army during World War II. He is best known as the inventor of the Polish mine detector, the first man-portable mine detector, whose basic design has been in use with various armies for over 50 years. Before World War II, Kosacki was a technician in the Artillery Department of the Polish Ministry of National Defense. Shortly before the war, he joined the clandestine Special Signals Unit, a secret institute that worked on electronic appliances for the army. Following the 1939 invasion of Poland, he managed to get to the United Kingdom, where he continued his service in the Polish Army as a signals officer. In 1941 he devised his Polish Mine Detector. It was to be used for the first time in action on Second Battle of El Alamein. Five hundred of these detectors were issued to Eighth Army. They doubled the speed at which heavily mined sands could be cleared, from 100 to 200 meters an hour. The device was used until the 1991 Gulf War. During World War II, Kosacki's name was classified in order to protect his family, which had remained behind in German-held Poland. Therefore most of his patents were submitted under pseudonyms, including "Józef Kos," "Kozacki" and "Kozak." As a result, his surname is often given erroneously in postwar historiography. After the war he returned to Poland, where he became a pioneer of electronics and nuclear machinery. For many years he held the chair in electronics at the Institute for Nuclear Research at Otwock - Swierk. He was also a professor at the Military Technical Academy in Warsaw. He died in 1990 and was buried with military honors.
+
+30.03.2017
+
+rudolf gundlach
+inne(blog):
+http://polishgreatness.blogspot.co.uk/2010/12/polish-inventions-ww2-weapons.html
+
+https://en.wikipedia.org/wiki/Timeline_of_Polish_science_and_technology
+Timeline of Polish science and technology
+
+https://en.wikipedia.org/wiki/List_of_World_War_II_weapons_of_Poland
+
+World War II Database
+http://ww2db.com/photo.php
+
+The Polish Army in Great Britain:
+http://www.polandinexile.com/polisharmy.html
+
+Top 10 Surprising Facts About Poland During WWII:
+http://www.toptenz.net/top-10-surprising-facts-about-poland-during-wwii.php
+
+Polskie sily powietrzne w 2 wojnie swaitowej:
+http://www.polishairforce.pl/dyw315zdj.html
+
+List of World War II weapons of Poland:
+https://projecteureka.files.wordpress.com/2011/10/kosacki.jpg?w=214&h=300
+30.03.2017
+this is for creating entity framework data model
+https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application#creating-a-student-controller-and-views
+
+music store:
+http://mvcmusicstore.codeplex.com/
+
+It is for music store
+ASP.NET MVC 4 Models and Data Access
+12/04/2017
+http://hpc.louisemcdonald.name/Movies
+http://j-h-long.uk/
+http://jazzartists.j-h-long.uk/
+http://www.tutorialsteacher.com/mvc/mvc-view
+http://www.tutorialsteacher.com/articles
+https://chsakell.com/2013/05/02/4-basic-ways-to-pass-data-from-controller-to-view-in-asp-net-mvc/
+https://www.youtube.com/watch?v=Lrr66APUwBk
+16/04/2017
+https://justice4poland.com/2014/07/03/polish-inventions-inventors-and-intelectuals/
+http://www.toptenz.net/top-10-surprising-facts-about-poland-during-wwii.php
+https://polandian.wordpress.com/2009/04/21/six-cool-inventions-you-didnt-know-were-polish/
+http://www.allempires.com/forum/forum_posts.asp?TID=36211
+20/04:
+http://www.c-sharpcorner.com/UploadFile/4d9083/display-binary-images-in-webgrid-from-database/
+https://forums.asp.net/t/2034532.aspx?How+to+convert+Html+ActionLink+to+a+button+
+
+this is a good for landing page gallery:
+http://www.c-sharpcorner.com/UploadFile/abhikumarvatsa/ajax-actionlink-and-html-actionlink-in-mvc/
+
+http://stackoverflow.com/questions/200476/html-actionlink-method
+LINKS 02/05/2017:
+PAGINATION
+http://devproconnections.com/aspnet-mvc/aspnet-mvc-paging-done-perfectly
+PAGINATION CONTOSO
+https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/sorting-filtering-and-paging-with-the-entity-framework-in-an-asp-net-mvc-application
+PAGINATION TOUTUBE
+https://www.youtube.com/watch?v=Ack9Kj67Sb8
+CSS FOR PAGINATION
+https://github.com/troygoode/PagedList/commit/520d9cd8f1b9b7e0749ded0f2d42c92038d39eec
+
+WORDS COUNT PROGRAM
+https://wordcounttools.com/
+
+http://polishgreatness.blogspot.co.uk/2011/02/spy-week-famous-polish-spies-lukasz.html
+
+

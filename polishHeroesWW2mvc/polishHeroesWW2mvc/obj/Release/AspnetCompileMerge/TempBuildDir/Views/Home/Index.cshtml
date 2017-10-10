@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html>
+<body class="homeGradient">
+    @{
+        ViewBag.Title = "Home Page";
+    }
+
+    
+    <div class="row fullScreen">
+       
+            @using (Html.BeginForm("Index", "Home", FormMethod.Post, "ListAll"))
+            {
+                <div class="row" id="search-group">
+                    <div class="col-md-1"></div>
+                    <div class="col-md-4" >                    
+                            <div class="btn-primary" id="btnListAll">                        
+                            <a href='@Url.Action("ListAll","Home" )'>LIST ALL HEROES</a>                      
+                        </div>                    
+                        </div>
+                    <div class="col-md-7"></div>
+                    </div>                 
+            }                   
+                       
+                        <div class="responsive">
+                          
+                            <div class="picSpace">
+                                <img class="img" src="@Url.Content("~/Content/Images/intelligence1.jpg")" />
+                                @Html.ActionLink("INTELLIGENCE", "ListAll", new { service = "Intelligence" })                                 
+                            </div>
+                            <div class="picSpace">
+                                <img class="img" src="@Url.Content("~/Content/Images/technology.jpg")"  />
+                                @Html.ActionLink("TECHNOLOGY","ListAll", new {service = "Technology" })
+                            </div>
+                            <div class="picSpace">
+                                <img class="img" src="@Url.Content("~/Content/Images/navy1.jpg")"  />
+                                @Html.ActionLink("NAVY", "ListAll", new { service = "Navy" })
+                            </div>
+                            <div class="picSpace">
+                                <img class="img-responsive" src="@Url.Content("~/Content/Images/airforce.jpg")" />
+                                @Html.ActionLink("AIR FORCE", "ListAll", new { service = "Air_Force" })
+                            </div>
+                            <div class="picSpace">
+                                <img class="img" src="@Url.Content("~/Content/Images/army.jpg")"  />
+                               @Html.ActionLink("ARMY","ListAll", new { service = "Army"})
+                            </div>
+                           
+                        </div>
+</div>
+                      
+   </body>
+</html>

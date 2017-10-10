@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Polish heroes during War World 2</title>
+    @*@Styles.Render("~/Content/css")*@
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <link href="@Url.Content("~/Content/myCSS.css")" rel="stylesheet" type="text/css" />
+    <link href="@Url.Content("~/Content/Site.css")" rel="stylesheet" type="text/css" />
+    <link href="@Url.Content("~/Content/bootstrap.min.css")" rel="stylesheet" type="text/css" />
+    <link href="@Url.Content("~/Content/bootstrap.css")" rel="stylesheet" type="text/css" />
+    <script src="@Url.Content("~/Scripts/modernizr-2.6.2.js")"></script>
+
+
+    @*<link href="~/Content/myCSS.css" rel="stylesheet" />*@
+    @*@Scripts.Render("~/bundles/modernizr")*@
+    
+</head>
+<body>
+    <div class="container body-content">
+        <header>
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="hHeader">
+                        <h3>@Html.ActionLink("POLISH HEROES DURING WAR WORLD II", "Index")</h3>                        
+                    </div>
+                </div>               
+            </div>
+                            <div class="col-md-3" id="Service">
+                            </div>
+           
+        </header>
+        </div>
+        
+        @RenderBody()
+  
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/boundles/header")
+    @RenderSection("scripts", required: false)
+  
+</body>
+
+</html>
